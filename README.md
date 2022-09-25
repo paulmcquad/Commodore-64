@@ -3,6 +3,8 @@ Commodore 64 - Programming
 
 ## Prerequisites
 
+Install the Following:
+
 * [VICE Emulator](http://vice-emu.sourceforge.net/)
 * [C64-debugger](https://sourceforge.net/projects/c64-debugger/)
 * [KickAssembler](http://theweb.dk/KickAssembler/Main.php)
